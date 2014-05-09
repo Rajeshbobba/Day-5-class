@@ -61,10 +61,10 @@ int main(int argc, const char * argv[])
         
         [aFraction print];
         NSLog(@" =");
-        NSLog(@"%g", [aFraction convertToNum]);
+        NSLog (@"%g", [aFraction converToNum]);
         [bFraction print]; //never assigned a value
         NSLog(@" =");
-        NSLog(@"%g", [bFraction converToNum]);
+        NSLog (@"%g", [bFraction converToNum]);
     }
     return 0;
 }
