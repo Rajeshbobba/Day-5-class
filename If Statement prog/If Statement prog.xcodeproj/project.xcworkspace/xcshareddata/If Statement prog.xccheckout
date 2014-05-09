@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A79FDE1D-B638-41FD-BE75-34BAC2A256CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>If Statement prog</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>66EEF6B6-C34A-4BB2-9EDB-2AC53591AD3A</key>
+		<string>https://github.com/Rajeshbobba/Day-5-class.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>If Statement prog/If Statement prog.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>66EEF6B6-C34A-4BB2-9EDB-2AC53591AD3A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rajeshbobba/Day-5-class.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>66EEF6B6-C34A-4BB2-9EDB-2AC53591AD3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>66EEF6B6-C34A-4BB2-9EDB-2AC53591AD3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Day-5-class</string>
+		</dict>
+	</array>
+</dict>
+</plist>
